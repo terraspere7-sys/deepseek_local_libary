@@ -1,0 +1,5 @@
+node_modules/
+.tmp/
+.cyberself/
+.pnpm-store/
+.DS_Store
